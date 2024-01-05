@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/cilium is built on the following main stack:
+
 - [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
 - [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - [wercker](http://wercker.com/) – Continuous Integration
@@ -39,11 +40,13 @@ sachajw/cilium is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/cilium is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/666/X0g3ER4B.png' alt='Shelly Cloud'/> [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/897/S67KcxKE.png' alt='wercker'/> [wercker](http://wercker.com/) – Continuous Integration
@@ -81,14 +84,15 @@ sachajw/cilium is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/cilium](https://github.com/sachajw/cilium)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|11/16/23 <br/>Report generated|
+|43<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -442,10 +446,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[pydantic](https://pypi.org/pydantic)|v1.10.5|02/24/23|Quentin Monnet |MIT|N/A|
-|[semver](https://pypi.org/semver)|v2.13.0|08/18/22|Quentin Monnet |BSD-3-Clause|N/A|
-|[yamllint](https://pypi.org/yamllint)|v1.29.0|02/24/23|Quentin Monnet |GPL-3.0|N/A|
-|[zipp](https://pypi.org/zipp)|v3.15.0|03/01/23|Quentin Monnet |MIT|N/A|
+|[pydantic](https://pypi.org/project/pydantic)|v1.10.5|02/24/23|Quentin Monnet |MIT|N/A|
+|[semver](https://pypi.org/project/semver)|v2.13.0|08/18/22|Quentin Monnet |BSD-3-Clause|N/A|
+|[yamllint](https://pypi.org/project/yamllint)|v1.29.0|02/24/23|Quentin Monnet |GPL-3.0|N/A|
+|[zipp](https://pypi.org/project/zipp)|v3.15.0|03/01/23|Quentin Monnet |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/21112/default_1346bbda8fe03e4dce5601323a3ca47a10c1ae36.png'/> Go Packages (1)
